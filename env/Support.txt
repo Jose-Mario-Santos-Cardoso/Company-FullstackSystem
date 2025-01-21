@@ -1,0 +1,23 @@
+Create an "Virtual Environment" to install all Dependencies.
+
+- Run on the terminal:
+python -m venv env
+
+- Activate Your Virtual Environment:
+env\Scripts\activate
+
+- Install all Dependencies by Running:
+pip install flask sqlalchemy pandas openpyxl
+
+- To create the database and import DATA from EXCEL's Files run:
+python app/server/import_data.py
+
+- To Run Your System's Server:
+python app/main.py
+
+
+  env:
+      Include
+      Lib
+      Scripts
+      pyvenv.cfg

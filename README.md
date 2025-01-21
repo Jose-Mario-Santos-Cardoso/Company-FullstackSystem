@@ -1,2 +1,10 @@
 # Company-FullstackSystem
-SystemDeployed w/url(localhost),canOnly b-AccessedByDispositvsConnected t/t-samePrivateWi-fi.
+Here's the Project's Description, Explication and Guide.
+
+System deployed with an url(localhost) which can only be accessed by dispositives connected to the same Private Wi-fi.
+A FullStack System with Front-End(HTML/CSS/JS), Back-End(Python) and DataBase(SQLite); Including an Initial Page, Login Page and Main Page.
+Run the server with "python app/main.py" on the Terminal;
+Access the WebSite, using the URL Given (IP Address + Port used).
+Only people connected to the same Private Wi-Fi (which the server is running the application with) can ACCESS the Application by Using the Link (URL) in the Browser.
+
+Run the Server ("main.py"), then access the web application typing the URL; Example: ´ http://194.234.9.31:5010 ´.
